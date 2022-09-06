@@ -1,5 +1,5 @@
 Hi there 👋
-I am Amber Afshan ✨ ** Senio Data Engineer || @ Pakistan Single Window** ✨ I beleive Data is every where and we can turn it into Gold.
+I am Amber Afshan ✨ ** Senior Data Engineer || @ Pakistan Single Window** ✨ I beleive Data is every where and we can turn it into Gold.
 
 Here are a few things about me:
 
