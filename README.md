@@ -26,5 +26,5 @@ Find more about me here:
 <a href="https://github.com/riffatS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=riffatS">
 </a>
-<a href="https://github.com/riffatS?tab=followers"><img src="https://img.shields.io/github/followers/riffatS?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/AfshanRasheed?tab=followers"><img src="https://img.shields.io/github/followers/riffatS?label=Followers&style=social" alt="GitHub Badge"></a>
 
