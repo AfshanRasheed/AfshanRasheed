@@ -11,7 +11,6 @@ Here are a few things about me:
 * ⚡ Fun fact: ... I still google things.
 Find more about me here:
 
-
 ## Connect with me:
 <p align="left">
 
@@ -22,4 +21,10 @@ Find more about me here:
 
 </p>
 <br/>
+
+## ❤ Views and Followers
+<a href="https://github.com/riffatS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=riffatS">
+</a>
+<a href="https://github.com/riffatS?tab=followers"><img src="https://img.shields.io/github/followers/riffatS?label=Followers&style=social" alt="GitHub Badge"></a>
 
