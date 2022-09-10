@@ -15,8 +15,8 @@ Find more about me here:
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/amber-afshan-94a481129/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.instagram.com/empr.esss/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.facebook.com/xdrawOp"><img src="https://img.icons8.com/color/48/000000/facebook-new.png"/></a>
+<a href = "https://www.instagram.com/ambar_afshan/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.facebook.com/profile.php?id=100008787857439"><img src="https://img.icons8.com/color/48/000000/facebook-new.png"/></a>
 <a href = "amberafshan2050@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a>
 
 </p>
